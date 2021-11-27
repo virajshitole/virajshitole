@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=virajshitole)
+
 ### Hi there, folks! 👋
 
 <!--
