@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, folks! 👋
 
 <!--
 **virajshitole/virajshitole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm Viraj Shiotle 💻
+### 📫 Connect with me
+
+<p align="center">
+<a href="mailto:virajshitole01@gmail.com" target=_blank><img alt="Gmail" height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/viraj-shitole/" target=_blank><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;  
+</p>
